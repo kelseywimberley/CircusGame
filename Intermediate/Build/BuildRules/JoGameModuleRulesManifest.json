@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rkwim\\Documents\\Unreal Projects\\JoGame\\Source\\JoGame\\JoGame.Build.cs",
+		"C:\\Users\\rkwim\\Documents\\Unreal Projects\\JoGame\\Source\\JoGame.Target.cs",
+		"C:\\Users\\rkwim\\Documents\\Unreal Projects\\JoGame\\Source\\JoGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
